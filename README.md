@@ -40,7 +40,7 @@ Just like a well-executed fast break, our deep learning models showed that with 
 
 ## 🤝 Contributors
 
-- Vedanth Sirimalla
+- Vedanth Sirimalla (https://github.com/vedsirimalla)
 - Kriti C Parikh
 
 Ready to dive in and explore the intersection of AI and NBA analytics? Clone this repo and let's ball!
