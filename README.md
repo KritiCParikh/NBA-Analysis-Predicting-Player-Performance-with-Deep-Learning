@@ -1,4 +1,4 @@
-# NBA-Analysis-Predicting-Player-Performance-with-Deep-Learning🏀
+# NBA-Analysis-Predicting-Player-Performance-with-Deep-Learning
 
 Welcome to our NBA performance prediction playground! We've combined the magic of deep learning with the thrill of basketball to create a cutting-edge tool for forecasting player scoring output. If you've ever wondered how AI and sports analytics can team up to create game-changing insights, you're in for a treat!
 
@@ -44,3 +44,4 @@ Just like a well-executed fast break, our deep learning models showed that with 
 - Kriti C Parikh
 
 Ready to dive in and explore the intersection of AI and NBA analytics? Clone this repo and let's ball!
+Thank You. Let’s keep learning and growing together!
